@@ -78,7 +78,6 @@ namespace threadTest
         {
             Data.ValueChanged += upd;
 
-
             System.Timers.Timer test_timer = new System.Timers.Timer();
             test_timer.Interval = 2000;
             test_timer.Elapsed += timer1_Tick;
@@ -89,10 +88,7 @@ namespace threadTest
 
         private void timer1_Tick(object sender, EventArgs e)
         {
-            //DelUpdate _delUpdate = upd;
-
             Data.A = !Data.A;
-            //radioButton1.Invoke(_delUpdate);
         }
 
         public void upd()
@@ -101,7 +97,6 @@ namespace threadTest
         }
         public void upd(object sender, EventArgs e)
         {
-            //radioButton1.Checked = Data.A;
             DelUpdate _delUpdate = upd;
             radioButton1.Invoke(_delUpdate);
         }
