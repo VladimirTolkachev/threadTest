@@ -1,0 +1,9 @@
+c:\users\tolkachev\documents\visual studio 2015\Projects\threadTest\threadTest\bin\Debug\threadTest.exe.config
+c:\users\tolkachev\documents\visual studio 2015\Projects\threadTest\threadTest\bin\Debug\threadTest.exe
+c:\users\tolkachev\documents\visual studio 2015\Projects\threadTest\threadTest\bin\Debug\threadTest.pdb
+c:\users\tolkachev\documents\visual studio 2015\Projects\threadTest\threadTest\obj\Debug\threadTest.csprojResolveAssemblyReference.cache
+c:\users\tolkachev\documents\visual studio 2015\Projects\threadTest\threadTest\obj\Debug\threadTest.Form1.resources
+c:\users\tolkachev\documents\visual studio 2015\Projects\threadTest\threadTest\obj\Debug\threadTest.Properties.Resources.resources
+c:\users\tolkachev\documents\visual studio 2015\Projects\threadTest\threadTest\obj\Debug\threadTest.csproj.GenerateResource.Cache
+c:\users\tolkachev\documents\visual studio 2015\Projects\threadTest\threadTest\obj\Debug\threadTest.exe
+c:\users\tolkachev\documents\visual studio 2015\Projects\threadTest\threadTest\obj\Debug\threadTest.pdb
